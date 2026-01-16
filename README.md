@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Manish Sharma<br><br>🚀 Cloud-focused GoLang Backend Developer & DevOps Engineer passionate about building scalable systems, automating infrastructure, and contributing to open-source.<br><br>🔭 I’m currently working on<br><br>Cloud-native backend systems using Go (Gin)<br><br>DevOps pipelines with Docker, Kubernetes, GitLab CI & GitHub Actions<br><br>Infrastructure automation using Terraform on AWS & Azure<br><br>Improving system observability with Prometheus & Grafana<br><br>👯 I’m looking to collaborate on<br><br>GoLang backend or microservices projects<br><br>DevOps / Cloud-native applications<br><br>Open-source projects related to CI/CD, Kubernetes, or Cloud tooling<br><br>🤝 I’m looking for help with<br><br>Advanced Kubernetes production patterns<br><br>High-scale system design & distributed systems<br><br>Optimizing cloud cost and performance<br><br>🌱 I’m currently learning<br><br>Advanced Kubernetes & cloud security practices<br><br>Event-driven architectures (Kafka)<br><br>Production-grade system design for scalable platforms<br><br>💬 Ask me about<br><br>GoLang backend development<br><br>Docker, Kubernetes & CI/CD pipelines<br><br>AWS & Microsoft Azure<br><br>Infrastructure as Code (Terraform, Ansible)<br><br>Open-source contributions & Hacktoberfest<br><br>⚡ Fun fact<br><br>I’ve reduced deployment time by 90% using CI/CD automation<br><br>Hacktoberfest Super Contributor 🏆<br><br>Winner of SPHINX Hackathon (MNIT Jaipur)<br><br>🛠️ Tech Stack<br><br>Languages: Go, Python, Bash<br>Backend: REST APIs, Microservices<br>Databases: MySQL, MongoDB, PostgreSQL<br>DevOps & Cloud: Docker, Kubernetes, AWS, Azure, Jenkins, GitLab CI, Terraform<br>Monitoring: Prometheus, Grafana<br>Tools: Git, GitHub, Linux, NGINX, Kafka<br>
 
-<!--
-**MrMKsharma/MrMKsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishsharma31) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrMKsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MrMKsharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MrMKsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
